@@ -1,0 +1,20 @@
+pipecat-ai[openai,silero,deepgram,cartesia,runner,elevenlabs,openai,websocket]
+websockets
+deepgram-sdk
+aiohttp
+torchaudio
+channels
+requests
+# langchain
+# langchain_community
+# langchain_openai
+# langchain_pinecone
+openai
+pinecone
+langchain-chroma
+unstructured
+python-magic-bin
+llama-index
+chromadb
+llama-index-vector-stores-chroma
+ffmpeg
